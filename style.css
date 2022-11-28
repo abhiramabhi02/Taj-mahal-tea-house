@@ -1,0 +1,166 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.container-fluid{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+
+}
+.header1{
+    /* width: 100%;
+    height: 2.5em; */
+    background-color: #d1ab64;
+}
+.p1{
+    color: #fff;
+    font-size: .8em;
+    padding-left: 1em;
+}
+.p2{
+    color: #fff;
+    font-size: .8em;
+    padding-right: 4em;
+}
+.logo{
+    padding-left: 1.5vw;
+}
+.navbar{
+    padding-right: 9em;
+    padding-top: 4em;
+    background-color: #fff;
+}
+.nav-link{
+    margin-left: 2em;
+}
+.content-1{
+    
+    box-sizing: border-box;
+}
+#img2{
+    width: 15em;
+}
+.card{
+    margin-left: 3em;
+    padding-right: 5em;
+}
+.card-title{
+    color: #0c3564;
+}
+#card-btn{
+    color: #d1ab64;
+    border-color: #d1ab64;
+    background-color: #fff;
+}
+#img3{
+    width: 15em;
+}
+#award-img1{
+    width: 160px;
+    height: 160px;
+}
+#award-img2{
+    width: 160px;
+    height: 160px;
+}
+#award-img3{
+    width: 160px;
+    height: 160px;
+}
+#award-img4{
+    width: 160px;
+    height: 160px;
+}
+.footer{
+    background-color: #d1ab64;
+    
+}
+.handcrafted-teas{
+    margin-left: 1em;
+}
+#head-1{
+   font-size: .8em;
+   padding-left: .3em;
+   color: #fff;
+}
+.handcrafted-teas p{
+    font-size: .7em;
+    padding-left: .5em;
+    color: #fff;
+}
+#head-2{
+    font-size: .8em;
+    padding-left: .3em;
+    color: #fff;
+}
+.festive-gifts p{
+    font-size: .7em;
+    padding-left: .5em;
+    color: #fff;
+}
+#head-3{
+    font-size: .8em;
+    padding-left: .3em;
+    color: #fff;
+    text-align: center;
+}
+.taj-mahal p{
+    font-size: .7em;
+    padding-left: .5em;
+    color: #fff;
+    text-align: center;
+}
+#head-4{
+    font-size: .8em;
+    padding-left: .3em;
+    color: #fff;
+    text-align: center;
+}
+.wah-taj p{
+    font-size: .7em;
+    padding-left: .5em;
+    color: #fff;
+    text-align: center;
+}
+#head-5{
+    font-size: .8em;
+    padding-left: .3em;
+    color: #fff;
+    text-align: center;
+}
+.support p{
+    font-size: .7em;
+    padding-left: .5em;
+    color: #fff;
+    text-align: center;
+ 
+}
+#head-6{
+    font-size: .8em;
+    padding-left: .3em;
+    color: #fff;
+    text-align: center;
+}
+.enquire p{
+    font-size: .7em;
+    padding-left: .5em;
+    color: #fff;
+    text-align: center;
+}
+
+#follow{
+    font-size: 1.4em;
+    color: #fff;
+    padding-left: 2em;
+}
+#s-1{
+    color: #fff;
+    padding-left: 1em;
+    
+}
+.copy{
+    font-size: .8em;
+    color: #fff;
+}
